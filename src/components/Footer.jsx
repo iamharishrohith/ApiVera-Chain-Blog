@@ -33,7 +33,7 @@ export default function Footer({ setActiveTab, onOpenPassport }) {
               <li><button onClick={() => setActiveTab('optical-lab')}>5s Optical Lab Simulator</button></li>
               <li><button onClick={() => setActiveTab('acoustic-ai')}>Bio-Acoustics Player</button></li>
               <li><button onClick={() => setActiveTab('blockchain')}>Ledger & Burn Explorer</button></li>
-              <li><button onClick={() => setActiveTab('deck')}>SIH Slides (1 to 6)</button></li>
+              <li><button onClick={() => setActiveTab('pan-india')}>Indian Hives Guide</button></li>
             </ul>
           </div>
 

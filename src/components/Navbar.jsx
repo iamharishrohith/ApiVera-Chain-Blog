@@ -10,8 +10,7 @@ export default function Navbar({ activeTab, setActiveTab, onOpenPassport }) {
     { id: 'optical-lab', label: 'Optical Lab (5s)', icon: Activity },
     { id: 'acoustic-ai', label: 'Bio-Acoustics', icon: Cpu },
     { id: 'blockchain', label: 'Ledger Explorer', icon: Shield },
-    { id: 'pan-india', label: 'Indian Hives', icon: Layers },
-    { id: 'deck', label: 'SIH Slides (1-6)', icon: Award }
+    { id: 'pan-india', label: 'Indian Hives', icon: Layers }
   ];
 
   return (

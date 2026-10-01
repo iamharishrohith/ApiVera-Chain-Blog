@@ -7,7 +7,6 @@ import OpticalLabSimulator from './components/OpticalLabSimulator';
 import BioAcousticVisualizer from './components/BioAcousticVisualizer';
 import BlockchainExplorer from './components/BlockchainExplorer';
 import PanIndiaHiveGuide from './components/PanIndiaHiveGuide';
-import SlideDeckViewer from './components/SlideDeckViewer';
 import TeamSection from './components/TeamSection';
 import HoneyPassportModal from './components/HoneyPassportModal';
 import Footer from './components/Footer';
@@ -49,7 +48,6 @@ export default function App() {
             <PanIndiaHiveGuide 
               setActiveTab={setActiveTab} 
             />
-            <SlideDeckViewer />
             <TeamSection />
           </>
         )}
@@ -79,10 +77,6 @@ export default function App() {
           <PanIndiaHiveGuide 
             setActiveTab={setActiveTab} 
           />
-        )}
-
-        {activeTab === 'deck' && (
-          <SlideDeckViewer />
         )}
 
         {activeTab === 'team' && (
