@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80">
+  <!-- National Emblem Ashoka Pillar Silhouette -->
+  <g fill="#0F172A">
+    <!-- Ashoka Lion Simplified Silhouette -->
+    <path d="M 32 16 C 28 16 24 19 24 24 C 24 28 26 31 29 33 C 27 34 25 37 25 40 C 25 43 27 45 28 47 L 24 54 L 40 54 L 36 47 C 37 45 39 43 39 40 C 39 37 37 34 35 33 C 38 31 40 28 40 24 C 40 19 36 16 32 16 Z" />
+    <rect x="22" y="55" width="20" height="3" rx="1" />
+    <circle cx="32" cy="62" r="3" fill="none" stroke="#0F172A" stroke-width="1.5" />
+    <rect x="20" y="66" width="24" height="2" />
+    <!-- Satyameva Jayate -->
+    <text x="32" y="74" text-anchor="middle" font-family="'Inter', sans-serif" font-size="5" font-weight="700" fill="#0F172A">सत्यमेव जयते</text>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="56" y1="14" x2="56" y2="70" stroke="#CBD5E1" stroke-width="1.5" />
+
+  <!-- MSME Typography -->
+  <g transform="translate(68, 0)">
+    <!-- Hindi Subtitle -->
+    <text x="0" y="24" font-family="'Inter', 'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#0F172A">सूक्ष्म, लघु एवं मध्यम उद्यम मंत्रालय</text>
+    <!-- English Bold Header -->
+    <text x="0" y="42" font-family="'Inter', sans-serif" font-size="14" font-weight="900" letter-spacing="1.5" fill="#D97706">MSME</text>
+    <text x="58" y="38" font-family="'Inter', sans-serif" font-size="7" font-weight="800" fill="#475569">GOVERNMENT OF INDIA</text>
+    <text x="0" y="56" font-family="'Inter', sans-serif" font-size="7.5" font-weight="600" fill="#334155">Ministry of Micro, Small &amp; Medium Enterprises</text>
+    <text x="0" y="67" font-family="'Inter', sans-serif" font-size="7" font-weight="700" fill="#059669">KVIC Honey Mission • Coordination Section</text>
+  </g>
+</svg>

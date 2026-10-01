@@ -1,0 +1,443 @@
+=== PAGE 1 ===
+SMART INDIA HACKATHON 2026
+Problem Statement ID 
+ – 
+26021  
+ Team ID 
+ – 
+167577   
+ Team Name 
+ – 
+Arise
+  
+PS Category
+ - 
+Software   
+ Theme 
+ - 
+Agriculture, 
+ FoodTech  
+& Rural Development
+Problem Statement Title 
+ - 
+Honey Chain: A block chain
+ -
+based system for honey 
+traceability and smart beekeeping management .
+Mentor: Dr. K Arun Kumar
+T
+eam Lead: Harini
+1.
+ Ananthi
+2.
+ Amrin
+3.
+ Bhubana
+4.
+ Kaviya
+5.
+ Subhaharini
+MSME 
+Coordination Section
+Ground 
+Analysis & Core 
+Breakthroughs:
+•
+ Adulteration 
+ Defense
+ :
+ Bypasses 
+ ₹20,000 lab tests using
+ 5
+-
+Second Optical Polarimetry ( 𝛼 𝐷
+)
+ to instantly detect 
+C3/C4 & rice syrups.
+•
+ Anti
+ -
+Clone & Anti
+ -
+Refill:
+ Enforces
+ Mass
+ -
+Conservation Smart Contracts
+ (total jars = harvest scale weight) +
+ Burn
+ -
+On
+ -
+Open
+ single
+ -
+use tokens.
+•
+ 100% Traditional Hive Fit:
+ ApiVera  
+Pod
+ retrofits onto Himalayan Wall Hives (
+ Jalokhas
+ ), Log Hives, Mud Pots, and 
+old boxes in 10 seconds with zero drilling.
+•
+ Bio
+ -
+Acoustic Pre
+ -
+Emption
+ :
+ Detects 240
+–280 
+Hz
+ queen piping
+ to warn farmers 48 hours before swarming 
+via
+ regional WhatsApp voice notes
+ .
+Connecting 
+ 2.5M+ rural 
+beekeepers  
+directly to 
+conscious consumers through 
+zero
+ -
+modification hive 
+sensing, 5
+ -
+second optical 
+purity verification, 
+ and mass
+ -
+conserved tamper
+ -
+proof 
+blockchain provenance.
+Insight
+3_colony_swarming_mortality
+2_traditional_wall_hive_jalokha3
+1_honey_adulteration_problem
+1
+#
+ SIH2
+ 6021
+    
+ @
+ Arise
+ Introduction
+
+=== PAGE 2 ===
+Introducing our Solution 
+ – 
+APIVERA CHAIN
+Proposed Solution
+How it addresses the problem
+Indigenous Bio
+ -
+Optical & Mass
+ -
+Conserved Honey Provenance Ecosystem
+Hive Layer:  
+ApiVera  
+Pod
+ monitors acoustic 
+frequencies, weight, and 
+VOC gases to predict 
+swarms and brood 
+diseases.
+Harvest Layer:  
+ApiVera  
+OptiLens
+ verifies raw 
+honey purity in 5 
+seconds via a 
+ ₹50 
+smartphone optical clip.
+Retail Layer:  
+ApiVera  
+Ledger
+ locks minted jars 
+to harvested weight and 
+burns tokens on first 
+open to stop bottle 
+refilling.
+Prototype V1: Testing
+• Stops Adulteration: Detects synthetic C3/C4 syrups in-field, 
+eliminating reliance on ₹20,000 lab NMR tests.
+• Cuts Middlemen: Direct farm-to-consumer traceability 
+increases beekeeper earnings from ₹90/kg to ₹380/kg.
+• Prevents Colony Loss: Delivers native-language voice 
+alerts 48 hours before swarming to save bee biomass.
+Innovation & Uniqueness
+5
+-
+Second Optical Purity Check:
+ Uses light rotation on a 
+ ₹50 mobile lens to 
+instantly catch fake sugar syrups without expensive lab tests.
+Anti
+ -
+Refill Smart Seal:
+ Caps total jar QR codes to actual harvest weight and 
+burns the digital token on first open to stop bottle refilling.
+Bio
+ -
+Acoustic Swarm Warning:
+ Listens to bee sound frequencies to alert 
+the farmer
+ 48 hours before bees escape
+ (swarming).
+Smart Moisture Tracker:
+ Measures nightly water evaporation to notify the 
+farmer when honey is 
+ 100% ripe ( ≤ 𝟏𝟖%
+ moisture)  
+before harvest.
+Zero
+ -
+App Voice & Direct UPI Pay:
+ Sends automated audio alerts in regional 
+languages (Hindi, Punjabi, etc.) and allows consumers to
+ tip the beekeeper 
+directly via UPI
+ .
+2
+#
+ SIH26
+ 021
+    
+ @
+ Arise
+ Proposed Solution
+
+=== PAGE 3 ===
+Technical Architecture & Methodology 
+Technological Stack
+Hardware Stack ( Offline Edge Intelligence )
+Blockchain Integration
+Blockchain Stack
+End
+ -
+to
+ -
+End Honey Traceability Flow & Methodology
+3
+#
+ SIH26
+ 021
+    
+ @
+ Arise
+ Technical Approach
+
+=== PAGE 4 ===
+Feasibility & Viability (Unique Operational Strengths)
+➢
+ Zero
+ -
+New Infrastructure:
+ Plugs directly into 
+existing
+ KVIC Honey Mission extraction toolkits
+ and 
+Khadi village 
+ centers
+ .
+➢
+ Micro
+ -
+Gas Blockchain Batches:
+ Bundles 100+ hive 
+harvests into a single Merkle cryptographic root, 
+costing
+ under 
+ ₹0.05 per batch
+ .
+➢
+ Self
+ -
+Calibrating Bio
+ -
+Sensing:
+ Automatically filters out 
+ambient tractor, wind, and rain noise without manual 
+tuning.
+➢
+ Migratory Auto
+ -
+Tracking:
+ Automatically updates floral 
+origin and GPS when beekeepers move boxes between 
+states (e.g., Punjab Mustard ➔ 
+Bihar Litchi).
+Technical Feasibility, Deployment & Risk Mitigation
+Unique Ground Challenges & Technical Mitigations
+➢
+ State Migrations on Trucks ➔
+ Solved 
+via
+ autonomous GPS geofencing
+ that auto
+ -
+switches 
+botanical flora profiles during seasonal transit.
+➢
+ Monsoon Moisture Spoilage ( > 20%
+) ➔
+ Solved 
+via
+ smart contract lock
+ that physically refuses to 
+mint QR tokens if moisture exceeds 18.0%
+.
+➢
+ Extreme Seasonal Temperature Drift ➔
+ Solved 
+via
+ polynomial thermal compensation
+ keeping scale 
+accuracy within ±2.5
+g
+ from −20∘
+C
+ to +48∘
+C
+ .
+➢
+ Fake Lab Certificate Uploads ➔
+ Solved via
+ hardware 
+secure element (ATECC608A)
+ signing test data 
+directly at the village refractometer.
+Deployment & 
+ Scale  
+Viability
+4
+#
+ SIH26
+ 021
+    
+ @
+ Arise
+ Feasibility & Viability
+
+=== PAGE 5 ===
+Prototype-to-Impact & Benefits: Honey Traceability in Action
+1. Hive Monitoring
+ 2. Harvest Recording
+ 3. Quality Testing
+ 4. Blockchain Record
+ 5
+. Consumer Verification
+6
+#
+ SIH26
+ 021
+    
+ @
+ Arise
+ Impact & Benefits
+
+=== PAGE 6 ===
+Research & References
+Comprehensive Scientific References
+#
+ Research / Reference
+ What it supports
+ Link
+01
+Honey Traceability & 
+Authenticity Review 
+ - 
+Journal of Apicultural 
+Science (2022)
+Honey origin 
+authentication, IoT & 
+blockchain applications
+Research Paper
+02
+ Fujairah Honey Chain 
+ - 
+Information (2025)
+Blockchain + IoT + smart 
+contracts + honey batch 
+traceability
+Research Paper
+03
+Honey Authentication 
+using AI
+ -
+Based Pollen 
+Analysis 
+ - 
+British Food 
+Journal (2025)
+AI / ML for honey 
+authentication and 
+pollen analysis
+Research Paper
+04
+Cutting
+ -
+edge 
+Approaches for Honey 
+Authentication 
+ - 
+JFCA 
+(2025)
+Chemical, molecular & 
+AI
+ -
+based authentication
+ Research Paper
+05
+ Precision Apiculture 
+System 
+ - 
+Sensors (2020)
+Temperature, humidity, 
+weight & hive 
+monitoring using IoT
+Research Paper / 
+System
+06
+ KVIC Honey Mission 
+ - 
+Government of India
+Existing beekeeping 
+ecosystem, training, bee 
+boxes & toolkits
+KVIC Honey 
+Mission 
+Document
+A. 
+ Smart 
+ Detection system’s high
+ -
+level architecture. Bee Smart 
+Detection system parts, data inputs, outputs, and data processing steps
+B. 
+ prototypes 
+ tested 
+in the beekeeping 
+station of the 
+laboratory team of 
+MicroComputer  
+Systems, Department 
+of Mathematics, 
+University of Ioannina, 
+located in the 
+ Ligopsa  
+area, Ioannina, Epirus, 
+Greece.
+6
+#
+ SIH26
+ 021
+    
+ @
+ Arise
+ Research & References
+
